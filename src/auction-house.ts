@@ -1,12 +1,4 @@
-// import { json } from '@graphprotocol/graph-ts';
-// import fetch from 'node-fetch';
-// declare global {
-//   interface JSON  {
-//       stringify: (obj: any) => string,
-//       parse: any
-//   }
-// }
-import { BigInt, Bytes } from "@graphprotocol/graph-ts";
+ 
 import axios from "axios";
 
 import {
